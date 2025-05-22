@@ -61,6 +61,7 @@ Meowhere/
 ├── libs/                # Zustand, API 클라이언트 등
 ├── public/              # 정적 리소스
 ├── styles/              # Tailwind config, global styles
+├── services/            # API 호출
 └── utils/               # 유틸 함수 모음
 ```
 
