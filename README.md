@@ -1,4 +1,4 @@
-<img width="1288" height="526" alt="image" src="https://github.com/user-attachments/assets/47543b05-255f-4c95-b247-9b037490e97d" />
+<img width="1920" height="1080" alt="F-022" src="https://github.com/user-attachments/assets/7917cd81-b76f-456a-90e8-884e584fe779" />
 
 https://meowhere.vercel.app/
 
